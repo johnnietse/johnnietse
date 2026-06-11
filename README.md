@@ -1,8 +1,8 @@
 <div align="center">
   <h1 align="center">Johnnie Tse</h1>
-  <h3 align="center">SWE @ Solana | Open-Source Contributor @ Kubernetes & vLLM | Computer Engineering @ Queen’s</h3>
+  <h3 align="center">High-Performance Systems & Infrastructure Engineer</h3>
   <p align="center">
-    <b>Aspiring Applied ML & Infrastructure Engineer specializing in HPC, Embedded Systems, and Scalable Backend Orchestration.</b>
+    <b>SWE @ Solana | Open-Source Contributor @ Kubernetes & vLLM | Computer Engineering @ Queen’s</b>
   </p>
   <p align="center">
     <a href="https://johnnietse.vercel.app" target="_blank">Portfolio</a> •
@@ -13,36 +13,41 @@
 
 ---
 
-### 👨‍💻 Professional Snapshot
+### 🎯 Engineering Focus
 
-Johnnie is a Computer Engineering student at Queen's University (Class of 2026) with a deep focus on **monumental open-source architectures** and **sustainable AI infrastructure**. He currently contributes to the **Kubernetes ecosystem** and **vLLM (llm-d)**, while serving as a **Software Engineer Fellow at Solana Labs**.
+I specialize in the intersection of **Cloud-Native Infrastructure**, **Autonomous Systems**, and **High-Performance Computing**. My work is driven by a mission to build sustainable, scalable, and deterministic systems that power the future of AI and Autonomy.
 
-- 🚀 **Currently:** Engineering Energy-Aware Endpoint Picker Plugins (EPP) for carbon-neutral LLM serving.
-- 🛠️ **Infrastructure:** Upstream contributor to **Kubernetes LeaderWorkerSet (LWS)** and **Kubespray**.
-- 🚘 **Autonomy:** CAN Lead @ Queen's AutoDrive, architecting C++ ROS2/CAN bridges for L4 Autonomous Vehicles.
-- 🖥️ **HPC:** Co-Founder & COO of Queen's High-Performance Computing, optimizing MPI/CUDA workloads.
+#### 🏗️ Cloud-Native & AI Infrastructure
+- **Upstream Contributor** to [Kubernetes (LWS & Kubespray)](https://github.com/kubernetes-sigs).
+- **Research Contributor** to [vLLM (llm-d)](https://github.com/vllm-project) focusing on Carbon-Aware scheduling.
+- **Solana Labs Fellow** engineering high-throughput blockchain infrastructure.
 
----
+#### 🚘 Autonomous Systems & Robotics
+- **CAN Lead** @ Queen's AutoDrive: Architecting real-time ROS2/CAN bridges for L4 Autonomous Vehicles.
+- **Embedded Systems:** Expert in C++ firmware, RT-Linux, and low-level communication protocols.
 
-### 🛠️ Core Stack & Engineering Vectors
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,cpp,python,rust,js,ts,react,nextjs,docker,kubernetes,ansible,terraform,linux,ubuntu,mysql,postgres,redis,git,github,figma&theme=dark" />
-  </a>
-  <br/>
-  <img src="https://img.shields.io/badge/Specialized-ROS2%20%7C%20CAN%20%7C%20eBPF%20%7C%20MPI%20%7C%20CUDA-FF6B6B?style=for-the-badge&labelColor=1a1a1a" />
-</div>
+#### ⚡ High-Performance Computing
+- **Co-Founder & COO** of Queen's HPC: Leading optimization of MPI/CUDA workloads for international competitions.
 
 ---
 
-### 📊 Engineering Metrics (Neo-Brutalism)
+### 🛠️ Tech Stack & Engineering Vectors
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | <img src="https://skillicons.dev/icons?i=go,cpp,c,rust,python,java,js,ts,solidity,bash&theme=dark" /> |
+| **Infrastructure** | <img src="https://skillicons.dev/icons?i=kubernetes,docker,ansible,terraform,azure,gcp,cloudflare,vercel,nginx,linux&theme=dark" /> |
+| **Hardware & IoT** | <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,embedded,kicad,solidworks,eclipse&theme=dark" /> |
+| **Data & ML** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,redis,supabase,postgres,mysql,mongodb,selenium,opencv,scikitlearn&theme=dark" /> |
+| **Frontend/Dev** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,graphql,git,github,gitlab,vscode,figma&theme=dark" /> |
+
+---
+
+### 📊 Performance Metrics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=johnnietse&show_icons=true&theme=radical&hide_border=false&border_radius=0&border_color=FF6B6B&bg_color=1a1a1a&title_color=4ECDC4&text_color=f0f0f0&icon_color=FF6B6B" alt="Johnnie Tse GitHub Stats" />
-</div>
-<br/>
-<div align="center">
+  <br/>
   <img src="https://github-readme-streak-stats.vercel.app/?user=johnnietse&theme=radical&hide_border=false&border_radius=0&border=FF6B6B&background=1a1a1a&ring=4ECDC4&fire=FF6B6B&currStreakNum=f0f0f0&sideNums=f0f0f0&currStreakLabel=4ECDC4&sideLabels=4ECDC4&dates=f0f0f0" alt="GitHub Streak" />
 </div>
 
@@ -78,5 +83,5 @@ Johnnie is a Computer Engineering student at Queen's University (Class of 2026) 
 
 <div align="center">
   <p>Visitors: <img src="https://komarev.com/ghpvc/?username=johnnietse&color=FF6B6B&style=flat-square" alt="Profile views" align="center" /></p>
-  <p><i>Last Updated: 2026-06-11 22:18:36 UTC</i></p>
+  <p><i>Last Updated: 2026-06-11 22:27:31 UTC</i></p>
 </div>
