@@ -57,17 +57,17 @@ I specialize in the intersection of **Cloud-Native Infrastructure**, **Autonomou
 
 <!-- DYNAMIC_PROJECTS_START -->
 
-#### 🚀 [AI-Powered_Professional_Job_Application_Assistant](https://github.com/johnnietse/AI-Powered_Professional_Job_Application_Assistant)
-> AI-powered full-stack job application assistant that automates tailored resume & cover letter creation, analyzes job/company data, simulates ATS scoring, and provides actionable insights. Complete SaaS ready for scalable production
-
 #### 🚀 [llm-d-epp-Energy-Aware-Endpoint-Picker-Plugin-](https://github.com/johnnietse/llm-d-epp-Energy-Aware-Endpoint-Picker-Plugin-)
 > A phase-aware Kubernetes scheduling plugin for the llm-d framework. It implements an adaptive, closed-loop controller to route LLM Prefill and Decode phases across heterogeneous accelerators (GPUs and ASICs) to optimize for Software Carbon Intensity (SCI) and energy budgets.
 
-#### 🚀 [personal-portfolio-website](https://github.com/johnnietse/personal-portfolio-website)
-> A high-fidelity, interactive 3D portfolio built with Next.js 16, React 19, and Three.js (React Three Fiber). Showcases production-grade engineering experience in Kubernetes, autonomous systems (CAN/ROS2), and High-Performance Computing (HPC) through immersive WebGL simulations.
-
 #### 🚀 [elec-498-group-30-2025-2026-proxy-app](https://github.com/johnnietse/elec-498-group-30-2025-2026-proxy-app)
 > Phase-aware Dynamic Voltage and Frequency Scaling (DVFS) controller for the miniMD proxy application.
+
+#### 🚀 [L4-autonomous-vehicle-object-detection-model-training](https://github.com/johnnietse/L4-autonomous-vehicle-object-detection-model-training)
+> Level 4 autonomous vehicle real-time road-sign TensorFlow Lite object detection model trained and deployed on Coral TPU edge hardware using EfficientDet-Lite.
+
+#### 🚀 [lws](https://github.com/johnnietse/lws)
+> LeaderWorkerSet: An API for deploying a group of pods as a unit of replication
 
 <!-- DYNAMIC_PROJECTS_END -->
 
@@ -83,5 +83,5 @@ I specialize in the intersection of **Cloud-Native Infrastructure**, **Autonomou
 
 <div align="center">
   <p>Visitors: <img src="https://komarev.com/ghpvc/?username=johnnietse&color=FF6B6B&style=flat-square" alt="Profile views" align="center" /></p>
-  <p><i>Last Updated: 2026-06-11 22:27:31 UTC</i></p>
+  <p><i>Last Updated: 2026-06-11 22:47:41 UTC</i></p>
 </div>

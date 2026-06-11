@@ -40,14 +40,14 @@ def generate_profile_readme():
                 "stargazerCount": repo["stargazerCount"]
             })
     
-    # Define high-impact projects to prioritize
+    # Define high-impact projects to prioritize based on latest profile data
     high_impact_repos = [
         "llm-d-epp-Energy-Aware-Endpoint-Picker-Plugin-",
         "lws",
+        "RISC_V_CPU",
         "strawberry-farm",
         "elec-498-group-30-2025-2026-proxy-app",
-        "AI-Powered_Professional_Job_Application_Assistant",
-        "personal-portfolio-website"
+        "L4-autonomous-vehicle-object-detection-model-training"
     ]
     
     # Sort projects: prioritized first, then by stars, then by date
