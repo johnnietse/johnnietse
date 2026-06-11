@@ -40,15 +40,28 @@ def generate_profile_readme():
                 "stargazerCount": repo["stargazerCount"]
             })
     
-    # Sort projects by stars and then by last updated date
-    projects.sort(key=lambda x: (x["stargazerCount"], x["updatedAt"]), reverse=True)
+    # Define high-impact projects to prioritize
+    high_impact_repos = [
+        "llm-d-epp-Energy-Aware-Endpoint-Picker-Plugin-",
+        "lws",
+        "strawberry-farm",
+        "elec-498-group-30-2025-2026-proxy-app",
+        "AI-Powered_Professional_Job_Application_Assistant",
+        "personal-portfolio-website"
+    ]
+    
+    # Sort projects: prioritized first, then by stars, then by date
+    projects.sort(key=lambda x: (
+        x["name"] in high_impact_repos,
+        x["stargazerCount"],
+        x["updatedAt"]
+    ), reverse=True)
+    
     top_projects_markdown = ""
-    for project in projects[:3]: # Top 3 projects
+    for project in projects[:4]: # Top 4 high-impact projects
         top_projects_markdown += f"""
-<div class="project-card">
-  <h3><a href="https://github.com/johnnietse/{project['name']}" target="_blank">{project['name']}</a></h3>
-  <p>{project['description']}</p>
-</div>
+#### 🚀 [{project['name']}](https://github.com/johnnietse/{project['name']})
+> {project['description']}
 """
 
     # Generate tech stack badges using skillicons.dev
