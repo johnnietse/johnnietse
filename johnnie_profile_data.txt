@@ -1,0 +1,29 @@
+Name: Johnnie Tse
+Website: johnnietse.vercel.app
+Bio: Computer Engineering Student specializing in mobile app development, modern web technologies, and high-performance computing.
+Core Vectors:
+- Level 4 Autonomous Systems (ROS2, Sensor Fusion, LiDAR, Computer Vision)
+- 3D Embedded Microcontrollers (IoT, ESP32, C++ Firmware, PCB Design)
+- miniMD Molecular Dynamics Simulation (HPC, MPI, PID Hardware Control, Computational Math)
+
+Key Technologies:
+- Languages: Java, Python, JavaScript, React, SQL, C/C++, CUDA
+- Tools: ROS2, ESP32, SolidWorks, Quartus FPGA, Arduino
+- Focus: Autonomy, Systems Engineering, Embedded Systems, Full-stack orchestration, HPC.
+
+GitHub Repositories (Key Projects):
+- llm-d-epp-Energy-Aware-Endpoint-Picker-Plugin: Phase-aware Kubernetes scheduling plugin for energy optimization in LLM prefill/decode phases.
+- personal-portfolio-website: High-fidelity 3D portfolio (Next.js 16, Three.js) showcasing engineering experience.
+- AI-Powered_Professional_Job_Application_Assistant: Full-stack SaaS for automated job applications and ATS scoring.
+- elec-498-group-30-2025-2026-proxy-app: DVFS controller for miniMD proxy application (HPC).
+- fundamental-cell-excel-spreadsheet: C-based reactive terminal spreadsheet.
+- L4-autonomous-vehicle-object-detection-model-training: TensorFlow Lite object detection on Coral TPU.
+- cryptocurrency-trading-system-with-coingecko-api: Pro-grade trading simulator with EMA signals.
+- travelExpenseTracker: Android finance app with real-time analytics.
+- RISC_V_CPU: CPU design and implementation.
+- kubespray: Production-ready Kubernetes cluster deployment.
+
+Design Preference:
+- Modern, minimalistic, high-aesthetics.
+- Theme: Clean High-Contrast Blue/Orange or Dark Mode Neo-Brutalism.
+- Professional but showcasing the learning journey.

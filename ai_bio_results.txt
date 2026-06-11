@@ -1,0 +1,15 @@
+Here is the output based on the provided professional data:
+
+HOOK: Trailblazing engineer fusing modern web, embedded systems, and HPC to drive the future of autonomy.
+
+ABOUT: Johnnie Tse is a computer engineering student with a passion for cutting-edge technologies. From mobile app development to high-performance computing, he has mastered a diverse skill set, showcasing his versatility and problem-solving prowess across various domains. Johnnie's commitment to continuous learning and innovation makes him a valuable asset in the ever-evolving tech landscape.
+
+DESIGN_RECS: For Johnnie Tse's GitHub profile, I would recommend a 'Neo-Brutalism' design layout. This style aligns well with his technical expertise and professional persona, conveying a sense of bold, minimalistic sophistication.
+
+The color scheme should feature a high-contrast combination of dark and light tones, such as a deep charcoal background with vibrant accents of blue and orange. This palette would create a striking visual impact while maintaining a clean, focused aesthetic.
+
+The overall layout should prioritize simplicity and readability, with ample whitespace and a clear hierarchy of information. Prominent headings, concise descriptions, and strategic use of monospace fonts would further complement the neo-brutalist aesthetic.
+
+To enhance the minimalist feel, consider incorporating subtle geometric patterns or textural elements as design accents, adding depth and visual interest without distracting from the core content.
+
+The end result should be a GitHub profile that is both visually captivating and effectively communicates Johnnie's technical expertise, professional achievements, and passion for innovation.
