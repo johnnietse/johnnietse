@@ -40,14 +40,16 @@ def generate_profile_readme():
                 "stargazerCount": repo["stargazerCount"]
             })
     
-    # Define high-impact projects to prioritize based on latest profile data
+    # Define high-impact projects to prioritize based on comprehensive analysis
     high_impact_repos = [
         "llm-d-epp-Energy-Aware-Endpoint-Picker-Plugin-",
         "lws",
+        "deel-legal-ai",
+        "LS-dbc-autonomous-mode",
         "RISC_V_CPU",
-        "strawberry-farm",
-        "elec-498-group-30-2025-2026-proxy-app",
-        "L4-autonomous-vehicle-object-detection-model-training"
+        "L4-autonomous-vehicle-object-detection-model-training",
+        "ELEC-475",
+        "strawberry-farm"
     ]
     
     # Sort projects: prioritized first, then by stars, then by date
@@ -72,10 +74,7 @@ def generate_profile_readme():
     last_updated = datetime.now().strftime("%Y-%m-%d %H:%M:%S UTC")
 
     # Populate template
-    final_readme = template.replace("{{USER_BIO_HOOK}}", user_bio_hook)
-    final_readme = final_readme.replace("{{USER_ABOUT_ME}}", user_about_me)
-    final_readme = final_readme.replace("{{TECH_STACK_BADGES}}", tech_stack_badges)
-    final_readme = final_readme.replace("{{CURRENT_PROJECTS}}", top_projects_markdown)
+    final_readme = template.replace("{{PROJECT_CARDS}}", top_projects_markdown)
     final_readme = final_readme.replace("{{LAST_UPDATED}}", last_updated)
 
     # Write final README.md
